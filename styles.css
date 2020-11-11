@@ -1,0 +1,103 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 10%;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+h3{
+  font-family:  'Montserrat', sans-serif;
+  font-weight: bold;
+
+}
+
+p{
+  font-family:  'Montserrat', sans-serif;
+font-weight: 500;
+color:gray;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+/* NAVIGATION BAR */
+.navbar{
+  padding:0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', sans-serif;
+}
+
+
+
+/* DOWNLOAD BUTTONS */
+
+.download-button{
+  margin: 5% 5% 0 0;
+}
+
+
+/* TITLE IMAGE */
+.title-image{
+  width: 60%;
+  transform: rotate(30deg);
+}
+
+/* TINDOG FEATURES */
+
+.features-tindog{
+  padding: 200px 0;
+  text-align: center;
+}
+
+.the-columns{
+  padding: 0 70px 0;
+}
+
+.features-icons{
+  margin: 5% 0 5% 0;
+  font-size: 60px;
+  color: #ef8172;
+}
+
+.features-icons:hover {
+  color: #ff4c68;
+}
+
+
+/* TESTIMONIALS */
+
+
+#testimonials {
+  padding:100px 330px;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
